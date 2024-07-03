@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="summary_subtitle">See your account summary below:</string>
+    <string name="total_table">Total table:</string>
+    <string name="summary">Summary</string>
+    <string name="number_people">Number of people:</string>
+    <string name="percentage">Percentage:</string>
+    <string name="total_amount">Total amount:</string>
+    <string name="refresh">Refresh</string>
+    <string name="main_subtitle">Fill in the fields below to calculate your account </string>
+    <string name="hint_table_amount">Type the table amount:</string>
+    <string name="number_people_1">Number of people:</string>
+    <string name="percentage_gorj">Tip percentage:</string>
+    <string name="btn_clean">Clean</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
