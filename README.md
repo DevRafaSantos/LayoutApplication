@@ -14,7 +14,6 @@ Esse projeto foi desenvolvido em linguagem nativa do Android, o Kotlin. O projet
 - ViewGroups
   - ConstraintLayout
 - ViewBinding
-- Snackbar
 
 ## Views
   - TextView
