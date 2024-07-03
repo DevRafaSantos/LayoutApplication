@@ -1,12 +1,11 @@
 # Calculadora de Gorjeta
-Esse projeto foi desenvolvido em linguagem nativa do Android, o Kotlin. O projeto é um dos módulos dos curso do DevSpace, e nele foi ensinado como criar esse aplicativo.
+Esse projeto foi desenvolvido em linguagem nativa do Android, o Kotlin. O projeto é um dos módulos dos curso do DevSpace, e nele foi ensinado como criar esse aplicativo que ajuda a resolver os cálculos de gorjetas. Nele é possível fazer acréscimo de gorjetas, ou até mesmo descontos de gorjetas.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/DevRafaSantos/LayoutApplication/issues/new" width=260/> <img src="https://github.com/DevRafaSantos/calculadoraimc/assets/166184212/5e77bc70-f35b-48c0-a38b-ac6834773128" width=260/>
+<img src="https://github.com/DevRafaSantos/LayoutApplication/assets/166184212/dba0ad47-5b03-4e1c-b356-96276a87c151" width=260/> <img src="https://github.com/DevRafaSantos/LayoutApplication/assets/166184212/06c2cf60-4b17-454b-8ce2-74cd21d19715" width=260/>
 
 
-Screenshots
 
 ## Tecnologias
 - Activity
