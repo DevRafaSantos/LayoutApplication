@@ -3,7 +3,7 @@ Esse projeto foi desenvolvido em linguagem nativa do Android, o Kotlin. O projet
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/DevRafaSantos/calculadoraimc/assets/166184212/688fcc62-cffc-4d89-94d2-f9d75316d33f" width=260/> <img src="https://github.com/DevRafaSantos/calculadoraimc/assets/166184212/5e77bc70-f35b-48c0-a38b-ac6834773128" width=260/>
+<img src="C:\Users\rsant\Downloads" width=260/> <img src="https://github.com/DevRafaSantos/calculadoraimc/assets/166184212/5e77bc70-f35b-48c0-a38b-ac6834773128" width=260/>
 
 
 Screenshots
